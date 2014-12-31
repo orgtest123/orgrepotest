@@ -7,7 +7,6 @@ if(true){
 echo "123";
 
 }
-hmmmmm33
 
 ===========
 
